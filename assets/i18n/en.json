@@ -134,6 +134,9 @@
 	"materials": {
 		"קנבס": "Canvas",
 		"זכוכית אקרילית (פרספקס)": "Acrylic Glass",
-		"אלומיניום": "Aluminum"
+		"אלומיניום": "Aluminum",
+		"קנבס מתוח על פרופיל עץ": "Streched canvas on wood",
+		"נייר צילום": "Photo paper",
+		"הדפסת התמונה על קנבס": "Print on canvas"
 	}
 }
